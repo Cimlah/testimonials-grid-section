@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://cimlah.github.io/testimonials-grid-section/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/testimonials-grid-section-with-css-grid-5jV7UDV-0w)
+- [Live Site URL](https://cimlah.github.io/testimonials-grid-section/)
 
 ## Author
 
