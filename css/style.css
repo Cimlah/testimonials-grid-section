@@ -126,18 +126,18 @@ main {
     opacity: 50%;
 }
 
-.daniel {
+.daniel-colour {
     border: 2px solid hsla(0, 0%, 81%, 0.5);
 }
 
-.jeanette {
+.jeanette-colour {
     color: var(--colour-very-dark-grayish-blue);
 }
 
-.patrick {
+.patrick-colour {
     border: 2px solid var(--colour-moderate-violet);
 }
 
-.kira {
+.kira-colour {
     color: var(--colour-very-dark-grayish-blue);
 }
