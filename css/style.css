@@ -124,7 +124,12 @@ main {
     border-radius: 50%;
 }
 
+.person-box h3 {
+    align-self: end;
+}
+
 .person-box h4 {
+    align-self: start;
     opacity: 50%;
 }
 
