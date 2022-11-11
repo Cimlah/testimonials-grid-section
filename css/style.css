@@ -28,6 +28,8 @@ body {
 
     display: grid;
     grid-template-rows: 1fr min-content;
+    justify-items: center;
+    align-items: center;
 }
 
 main {
